@@ -61,6 +61,7 @@ nav ul{
     grid-template-areas: 'area1 area4'
                         'area2 area4'
                         'area3 area4';
+    grid-template-columns: 50% 50%;                    
     margin-top: 1%;
     width: 100%;                 
 }
