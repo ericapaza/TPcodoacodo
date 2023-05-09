@@ -296,12 +296,8 @@ footer img:hover {
         margin: 0px 5px;
         vertical-align: center;
     }
-
     footer img:hover {
         opacity: 50%;
         scale: 120%;
     }
-
-
-
 }
